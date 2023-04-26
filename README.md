@@ -19,6 +19,6 @@ Twitch and game/category explanation can be found here.
 
 #### How can Twitch continue to increase viewership after the pandemic years?
 
-* There is still a huge gender gap within the Twitch audience with only 20.2% of the viewers identifying as female. Are there ways to increase female Twitch viewership by incorporating new categories such as Just Chatting?
+* There is still a huge gender gap within the Twitch audience with only 20.2% of the viewers identifying as female. Are there ways to increase female Twitch viewership by incorporating new categories?
 * 45-64 year olds only make up 13.59% of the Twitch audience. Further analysis
 * Further analysis on the growth of Just Chatting (types of streams, language, region, time of day streamed, etc.) can be used to find new popular categories that can incorporate  and thus increase overall viewership.
