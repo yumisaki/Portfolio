@@ -23,3 +23,9 @@ Twitch and game/category explanation can be found here.
 * Though the total hours watched between 2021 and 2022 decreased by 7%, we can see that the Just Chatting category still maintained its growth going from 3.02B hrs in 2021 to 3.139B hrs in 2022. Further analysis on the growth of Just Chatting (types of streams, language, region, time of day streamed, etc.) can be used to find new popular categories that can engage underrepresented audience members thus increasing overall Twitch viewership.
 * There is still a huge gender gap within the Twitch audience with only 20.2% of the viewers identifying as female. Are there ways to increase female Twitch viewership by incorporating new categories?
 * 45-64 year olds only make up 13.59% of the Twitch audience. Further analysis needed on how to make Twitch more accessible to the older populartion.
+
+
+## Bellabeat Case Study Practice
+
+I completed a case study for my Google Data Analytics Certificate on Kaggle. It can be viewed [here](https://www.kaggle.com/code/ayumisakiyama/bellabeat-case-study-practice-ga-da-cert).
+I primarily use R to explore and visualize the data.
