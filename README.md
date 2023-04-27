@@ -4,7 +4,7 @@
 
 In this project, I analyzed data from the popular streaming platform, Twitch, for the years 2016-2023. I cleaned the data and proceeded to analyze it in SQL which can be found here.
 
-The interactive dashboard can be found here. (Since there is limited data from 2023, I used data from 2016-2022 for the visualizations).
+The interactive dashboard can be found [here](https://public.tableau.com/views/Twitchgamedata2016-2022/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link). (Since there is limited data from 2023, I used data from 2016-2022 for the visualizations).
 
 Twitch and game/category explanation can be found here.
 
