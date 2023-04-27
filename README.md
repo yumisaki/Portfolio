@@ -6,7 +6,7 @@ In this project, I analyzed data from the popular streaming platform, Twitch, fo
 
 The interactive dashboard can be found [here](https://public.tableau.com/views/Twitchgamedata2016-2022/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link). (Since there is limited data from 2023, I used data from 2016-2022 for the visualizations).
 
-Twitch and game/category explanation can be found here.
+Twitch and game/category explanation can be found [here](https://github.com/yumisaki/Portfolio/blob/main/Twitch%20explanation.pdf).
 
 ![twitch game data dashboard](https://user-images.githubusercontent.com/96529219/234983122-46b25696-8fa1-4ef9-9483-366adb187495.png)
 
