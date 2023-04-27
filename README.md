@@ -12,7 +12,7 @@ Twitch and game/category explanation can be found here.
 
 #### Twitch growth during pandemic years
 
-* We see an exponential growth of Twitch being used between 2019-2021 during the height of the COVID-19 pandemic with a staggering 121% growth between those years.
+* We see an exponential growth of Twitch usage between 2019-2021 during the height of the COVID-19 pandemic with a staggering 121% growth between those years.
 * If you look at data from 2020, we see a sharp rise in usage between March and April which is the start of the pandemic. As the weather gets warmer and COVID cases go down, we also see a dip in usage before picking up again in the colder months when COVID begins its second wave after people have gathered for the holidays. In 2021 we see Twitch usage increase after every wave when restrictions go in place and dip as cases go down. There is an overall decrease in usage in 2022 as most of the COVID restrictions lift and cases have plummeted.
 * The top game/category is Just Chatting with 9.053B total hours watched. Though Just Chatting was only incorporated in late 2018, it quickly overtook all other games/categories and by May of 2020 consistently becomes the number one most watched cateogry on Twitch (per month).
 * During the pandemic, the two game/categories that had the largest increase in hours watched was Just Chatting and GTA V which both have highly social elements compared to other multiplayer games. The increase may be explained by the isolation felt by viewers during the lockdowns where they would seek out highly social games/streams.
