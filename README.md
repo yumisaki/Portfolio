@@ -8,7 +8,8 @@ The interactive dashboard can be found [here](https://public.tableau.com/views/T
 
 Twitch and game/category explanation can be found here.
 
-![image](https://user-images.githubusercontent.com/96529219/234692787-8ab1028a-0514-4ee2-814c-d14f131e8c10.png)
+![twitch game data dashboard](https://user-images.githubusercontent.com/96529219/234983122-46b25696-8fa1-4ef9-9483-366adb187495.png)
+
 
 #### Twitch growth during pandemic years
 
