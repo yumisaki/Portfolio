@@ -1,7 +1,7 @@
 # Portfolio Projects
 
 ## Table of Contents
-* Twitch Games Data Analysis
+* [Twitch Games Data Analysis](https://github.com/yumisaki/Portfolio/blob/main/README.md#twitch-games-data-analysis)
 * Bellabeat Case Study Practice
 
 ## Twitch Games Data Analysis
