@@ -10,6 +10,7 @@ Twitch and game/category explanation can be found [here](https://github.com/yumi
 
 ![twitch game data dashboard](https://user-images.githubusercontent.com/96529219/234983122-46b25696-8fa1-4ef9-9483-366adb187495.png)
 
+Source: https://www.kaggle.com/datasets/rankirsh/evolution-of-top-games-on-twitch
 
 #### Twitch growth during pandemic years
 
