@@ -1,5 +1,9 @@
 # Portfolio Projects
 
+## Table of Contents
+* Twitch Games Data Analysis
+* Bellabeat Case Study Practice
+
 ## Twitch Games Data Analysis
 
 In this project, I analyzed data from the popular streaming platform, Twitch, for the years 2016-2023. I cleaned the data and proceeded to analyze it in SQL which can be found [here](https://github.com/yumisaki/Portfolio/blob/main/SQLTwitch_game_data.sql).
