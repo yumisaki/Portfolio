@@ -2,7 +2,7 @@
 
 ## Table of Contents
 * [Twitch Games Data Analysis](https://github.com/yumisaki/Portfolio/blob/main/README.md#twitch-games-data-analysis)
-* Bellabeat Case Study Practice
+* [Bellabeat Case Study Practice](https://github.com/yumisaki/Portfolio/blob/main/README.md#bellabeat-case-study-practice)
 
 ## Twitch Games Data Analysis
 
